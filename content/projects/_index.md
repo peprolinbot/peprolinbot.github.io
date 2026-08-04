@@ -7,6 +7,6 @@ cascade:
   showWordCount: false
 ---
 
-This is a non-exhaustive list of my projects. You should check my
-[Codeberg](https://codeberg.org/peprolinbot) and
-[GitHub](https://github.com/peprolinbot) too for more.
+This is a non-exhaustive list of my projects. You should also check my profile
+in [Codeberg {{< icon "codeberg" >}}](https://codeberg.org/peprolinbot) and
+[GitHub {{< icon "github" >}}](https://github.com/peprolinbot) for more.
