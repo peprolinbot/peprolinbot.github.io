@@ -26,6 +26,7 @@ You might be able to find posts in this website about some of my projects, but
 only when I feel inspired to write (not very often) 🙃.
 
 > [!NOTE]
+>
 > To see a summary of my projects (non-exahustive) you can go to
 > [Projects](/projects)
 
