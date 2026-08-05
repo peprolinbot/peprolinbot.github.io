@@ -39,6 +39,7 @@
               # For Helix
               superhtml
               taplo
+              yaml-language-server
             ];
           };
         }
