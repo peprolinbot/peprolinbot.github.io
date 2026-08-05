@@ -1,4 +1,4 @@
-module codeberg.org/peprolinbot/website
+module github.com/peprolinbot/peprolinbot.github.io
 
 go 1.26.5
 
