@@ -1,7 +1,7 @@
 ---
 title: "GUADEC 2026"
 date: 2026-08-05T16:52:10+02:00
-description: ""
+description: "A post about my experience during GUADEC 2026"
 ---
 
 !["Sponsored by GNOME Foundation" badge](https://gitlab.gnome.org/Teams/Websites/brand.gnome.org/-/raw/master/assets/travel-committee/sponsored-by-foundation.png)

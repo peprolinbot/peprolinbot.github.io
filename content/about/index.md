@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2026-07-27T15:13:55+02:00
-description: ""
+description: "Some stuff about me"
 
 showReadingTime: false
 showDate: true
