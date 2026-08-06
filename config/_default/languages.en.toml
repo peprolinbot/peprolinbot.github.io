@@ -11,7 +11,7 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "img/peprolinbot_avatar.png"
 # secondaryLogo = "img/peprolinbot_face.jpg"
-description = "My personal website"
+description = "Pedro Rey Anca's personal website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
